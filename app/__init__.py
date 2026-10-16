@@ -1,0 +1,1 @@
+"""StellarTrack application package."""
